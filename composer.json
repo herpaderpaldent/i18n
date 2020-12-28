@@ -24,7 +24,7 @@
         "laravel/framework": "^6.0 || ^7.0 || ^8.0"
     },
     "require-dev": {
-        "laravel/laravel": "dev-8.x",
+        "laravel/laravel": "8.x-dev",
         "phpunit/phpunit": "^9.0"
     },
     "scripts": {
